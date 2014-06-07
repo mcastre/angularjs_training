@@ -1,0 +1,32 @@
+<section class="artistpage">
+	<div class="search">
+		<h1>Friends Directory</h1>
+		<label>Search:</label>
+		<input ng-model="query" autofocus class="search-bar">
+		<label class="formgroup cf">by:
+			<select ng-model="orderByName">
+				<option value="name">Name</option>
+				<option value="weapon">Weapon</option>
+			</select>
+		</label>
+		<label class="formgroup">
+			<input type="radio" ng-model="direction" name="direction">
+			ascending
+		</label>
+		<label class="formgroup">
+			<input type="radio" ng-model="direction" name="direction" value="reversed">
+			descending
+		</label>
+	</div>
+	<ul class="artist-list">
+		<li class="artist cf" ng-repeat="item in artists | filter: query | orderBy: orderByName:direction">
+			<a href="#/details/{{artists.indexOf(item)}}">
+				<img ng-src="img/{{item.shortname}}_th.jpg" alt="artist bio">
+				<div class="info">
+					<h2>{{item.name}}</h2>
+					<h3>{{item.weapon}}</h3>
+				</div>
+			</a>
+		</li>
+	</ul>
+</section>

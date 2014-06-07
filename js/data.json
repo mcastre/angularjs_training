@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Heide Knight",
+    "shortname": "heide_knight",
+    "weapon": "sword/spear/greatsword",
+    "bio": "These mysterious, ancient knights from the fallen land of Heide roam Drangleic and are found in various locations similar to the Black Knight in Dark Souls, except they are passive and content to be left alone, only attacking if they are attacked first. Be forewarned: they are highly aggressive once they're attacked, and show remarkable skill in close-combat. Also has several arrows lodged into certain parts of his body, including the knee and face."
+  },
+  {
+    "name": "Hollow Infantry",
+    "shortname": "hollow_infantry",
+    "weapon": "sword/spear",
+    "bio": "Clad in rotting versions of the Infantry Set, and found primarily in the Forest of Fallen Giants, these hollowed dregs were once the rank-and-file low-ranking soldiers of the Kingdom of Drangleic. Functionally little more than militiamen, they have weaker weapons and equipment than their Royal Knight brethren, but maintain some semblance of their original skills and have a predilection for hunting in packs. Though not very dangerous individually, Hollow Infantry have a notorious tendency to appear in large groups, where their threat level increases exponentially. Dealing with them piecemeal is the best tactic, though weapons with large, sweeping strikes can help deal with them in groups. Beware their attack flurry; though somewhat rare, this attack can do considerable damage and break the guard of the unprepared. They can also perform guard break maneuvers"
+  },
+  {
+    "name": "Old Ironclad",
+    "shortname": "old_ironclad",
+    "weapon": "club",
+    "bio": "These are the first really 'heavy hitters' you encounter. Knights sent from the Iron King's stronghold to reinforce Drangleic against the marauding giant horde, the Old Ironclads are weathered, weaker versions of their stronger cousins. They are nonetheless formidable, clad in heavy armor resembling a turtle's shell and which provides them with enormous defense. Difficult to stagger, these armored juggernauts carry massive footman's maces designed to smash defenders into paste. Though most of their attacks can be blocked, their swings do enormous stamina drain if defended against with anything less than a greatshield, so dodging them is recommended. They are the only source for the Old Ironclad set."
+  },
+  {
+    "name": "Varangian Bandit",
+    "shortname": "varangian_bandit",
+    "weapon": "dual swords",
+    "bio": "Dangerous pirates who boast skill at arms and equal skill at combining attacks with allies. The Varangian Bandits use their own unique straight sword variant, as well as dual cutlasses - and they often carry ranged weapons as well. They frequently make use of Hollow Infantry and Attack Dogs for support. The Varangians keep their bases dark for a reason: they will hurl oil flasks at foes, which, if the foe uses a torch or pyromancy flame, or is exposed to fire (such as the flame arrows the Hollow Infantry and Varangian Archers in the area use), it will make a player violently combust. Varangians love to fight in big groups, so keep your wits around you, especially in area where they can bushwhack you."
+  },
+  {
+    "name": "Dark Stalker",
+    "shortname": "dark_stalker",
+    "weapon": "claws",
+    "bio": "'Spider monkey' like creatures with very long arms, hence a very long attack reach. They attack quickly and are quite deadly. They can cause bleeding with 2-3 hits but are terrified of the light and will cower at the sight of it (e.g., a torch); however, if you provoke them for too long, they can rage out even in bright light. If possible, try and get behind them for a backstab, but be careful."
+  },
+  {
+    "name": "Royal Swordsmen",
+    "shortname": "royal_swordsmen",
+    "weapon": "flamberge",
+    "bio": "These dangerous fighters are the hollowed forms of the Royal Swordsmen of the Drangleic military. Equipped with viciously-bladed, hand-and-a-half swords, they can cause bleed buildup with every swing, and though their armor is not especially impressive, the damage they can cause is a serious threat, especially when they are encountered in groups. Many are also capable of drawing and using Heavy Crossbows, to engage enemies from afar."
+  },
+  {
+    "name": "Undead Rogue",
+    "shortname": "undead_rogue",
+    "weapon": "knive/short sword/ranged/poison bonus+1",
+    "bio": "The undead rogues are figures that wear dark trousers and brown clothing with a hood. Most dual wield fast small weapons while some carry small ranged weapons that fire either arrows or bolts. They often attack in groups. They are found in Huntsman's Copse."
+  },
+  {
+    "name": "Purgatory Guardians",
+    "shortname": "purgatory_guardians",
+    "weapon": "whip/notched whip/dark bonus+1",
+    "bio": "These tall, robed figures guard the wooden bridge leading to the Undead Purgatory. They either wield whips or staff-like weapons that cause high damage. They are easy to stun-lock and backstab. It's preferable that you face them one at time as they tend to be highly aggressive once aggro-ed. They are found in Huntsman's Copse."
+  },
+  {
+    "name": "Grave Warden",
+    "shortname": "grave_warden",
+    "weapon": "spear/magic bonus+1",
+    "bio": "Fast moving knight that carry glowing blue spears. Drops the Grave Warden Set, Silverblack Spear, and Silverblack Shield."
+  },
+  {
+    "name": "Desert Sorceress",
+    "shortname": "desert_sorceress",
+    "weapon": "pyromancy",
+    "bio": "Fire sorceress' that can be very dangerous if not dealt with fast enough. It is best to kill them before they can cast too many spells. They use a few different pyromancy spells. They are vulnerable to physical damage, but heavily resist elemental damage. under the hex Profound Still, they'll bash you with their mirror instead."
+  },
+  {
+    "name": "Alonne Knight",
+    "shortname": "alonne_knight",
+    "weapon": "katana/greatbow/lightning bonus+1",
+    "bio": "Clad in Iron Armor, the Alonne Knights were trained by a visitor to the Iron Keep, and fight viciously with Katanas and Alonne Greatbows. Though the knights occupying these armors have long since turned to dust, they remain at their posts and active as spirits entombed within their armor. They are amazingly fast for such heavily-armored foes, and are capable of sudden advances and retreats using their weapon of choice, the Blacksteel Katana. Though their armor has impressive physical resistance, they are vulnerable to magical damage, quickly going down from lightning, magic, or darkness."
+  },
+  {
+    "name": "Mastodon Knight",
+    "shortname": "mastodon_knight",
+    "weapon": "halberd/greatsword",
+    "bio": "Elephantine knights with halberds. They hit hard but move slowly. Appear in Drangleic Castle and as rusted versions in Doors of Pharros."
+  },
+  {
+    "name": "Archdrake Priest",
+    "shortname": "archdrake_priest",
+    "weapon": "halberd",
+    "bio": "A powerful enemy who uses a halberd found in the Shrine of Amana. Runs at a decent speed in the water and tends to be accompanied by either a sorcerer, another protecter, or a few water rats. They deal decent damage and can stun-lock with his combo attack."
+  },
+  {
+    "name": "Drakekeeper",
+    "shortname": "drakekeeper",
+    "weapon": "halberd/greatsword/great-hammer",
+    "bio": "Very dangerous foes, armed with swords, great-hammers or greatswords. Best dealt with from range."
+  }
+]

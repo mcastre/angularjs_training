@@ -1,0 +1,10 @@
+<section class="artistinfo">
+    <div class="artist cf" ng-model="artists">
+        <h1>{{artists[whichItem].name}}</h1>
+        <div class="info">
+            <h3>{{artists[whichItem].bio}}</h3>
+            <img ng-src="img/{{artists[whichItem].shortname}}_th.jpg" alt="">
+            <div class="bio">{{artists[whichItem].bio}}</div>
+        </div>
+    </div>
+</section>
